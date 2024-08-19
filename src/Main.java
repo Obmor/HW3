@@ -17,7 +17,7 @@ public class Main {
         short ee = -159;
         int ff = 27897;
         byte ggwp = 67;
-        System.out.println("No Data according the exercise! )))");
+        System.out.println("No Data according the exercise!!! )))");
         System.out.println("Exercise 3");
         byte lP = 23;
         byte aS = 27;
