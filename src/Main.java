@@ -25,6 +25,6 @@ public class Main {
         System.out.println("Exercise 3");
         short aAAA = 145;
         int bBBB = aAAA / 10 % 10;
-        System.out.println(bBBB);
+        System.out.println(bBBB + "Deal!");
     }
 }
