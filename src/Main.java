@@ -12,7 +12,7 @@ public class Main {
         float e = 1.111111f;
         System.out.println("Значение переменной 'e' с типом FLOAT равно " + e);
         double f = 1.111111111111111;
-        System.out.println("Значение переменной 'f' с типом LONG равно " + f);
+        System.out.println("Значение переменной 'f' с типом DOUBLE равно " + f);
         System.out.println("Exercise 2");
         float aOne = 27.12f;
         long bTwo = 987678965549L;
